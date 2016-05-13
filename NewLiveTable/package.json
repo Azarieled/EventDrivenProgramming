@@ -1,0 +1,11 @@
+{
+  "name": "live-table",
+  "version": "0.1.0",
+  "author": "Ruslan Gunawardana <ruslan.gunawardana@gmail.com>",
+  "description": "Websocket Live Table Example",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "1.0.x"
+  },
+  "readmeFilename": "README.md"
+}

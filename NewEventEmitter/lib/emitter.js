@@ -24,4 +24,5 @@ class EventEmitter {
   }
 }
 
+var exports = exports || {};
 exports.emitter = new EventEmitter();

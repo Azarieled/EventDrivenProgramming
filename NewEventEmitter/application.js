@@ -2,7 +2,7 @@
 
 global.api = {};
 
-global.application = require('./emitter.js').emitter;
+global.application = require('./lib/emitter.js').emitter;
 
 application.on('smth', function(data) {
   console.dir(data);
